@@ -1,0 +1,94 @@
+*{margin:0;
+padding: 0;
+  
+}
+.logo{border: 1px solid pink;
+width: 30px;
+height: 30px;
+
+
+  
+}
+.navbar{display: flex;
+justify-content: space-between;
+align-content: center;
+background-color: #f5b6c098;
+margin-top: 5px;
+border: 2px solid coral;
+/*padding: 8px;*/
+
+  
+}
+.nav-links{font-size:1rem;
+list-style: none;
+
+
+
+  
+}
+
+.nav-links a{text-decoration: none;
+color: deeppink;
+/*padding-right: 5px;8*/
+
+  
+}
+
+.homepage{background-image: url(background.jpg);
+  background-position: cover;
+  background-repeat: repeat;
+  border: 5px dotted pink;
+  margin-right:4px;
+ 
+  
+}
+
+
+
+
+
+.brand{text-align: center;
+color: violet;
+padding-block: 5px;
+  
+}
+.tagline{padding: 10px;
+color: #d340d3;
+  
+}
+.hero{display: flex;
+  
+}
+
+.img1{border: 3px solid #a28686;
+border-radius: 15px;
+margin-right: 10%;
+
+  
+}
+.img2{border: 3px solid white;
+border-radius: 15px;
+  
+}
+
+.headline{padding-left: 5px;
+padding-bottom: 10px;
+padding-top: 10px;
+color: #f55a5a;
+  
+}
+
+.subheading{text-align: center;
+color: firebrick;
+font-size: 20px;
+padding-top:10px ;
+
+  
+}
+
+
+
+
+
+  
+
